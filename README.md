@@ -1,4 +1,4 @@
-#📊 AI Money Mentor
+#📊 AI Money Mentor#
 
 AI Money Mentor is an intelligent personal finance assistant that helps users manage their income, expenses, savings, and financial goals through an interactive conversational interface. The system analyzes financial inputs and generates structured recommendations such as budgeting strategies, savings plans, expense optimization tips, and beginner-friendly investment guidance.
 
