@@ -76,14 +76,14 @@ AI-Money-Mentor
 │
 ├── public
 ├── src
-│   ├── components
-│   ├── pages
-│   ├── utils
-│   └── App.js
+│ ├── components
+│ ├── pages
+│ ├── utils
+│ └── App.js
 │
 ├── .env.local
 ├── package.json
-└── README.md 
+└── README.md
 
 
 ---
@@ -91,7 +91,7 @@ AI-Money-Mentor
 # ⚙️ Installation Guide
 
 ## Step 1: Clone the Repository
-git clone https://github.com/your-username/ai-money-mentor.git 
+git clone https://github.com/GayatriMusunuri/AI-Money-Mentor
 
 ## Step 2: Navigate to Project Directory
 cd ai-money-mentor 
@@ -145,14 +145,24 @@ Planned enhancements include:
 
 ---
 
-# 👩‍💻 Author
+# 👩‍💻 Team Members 
 
-**Musunuri V R Gayatri**  
-Computer Science Engineering Student  
-Focused on Artificial Intelligence, Machine Learning, and Intelligent Web Applications
+This project was developed during a hackathon by:
+
+**Musunuri V R Gayatri** 
+Worked On:
+- AI integration
+- Prompt engineering
+- frontend interaction logic
+
+**Patha Mikhilesh**
+Worked On:
+- UI components
+- API integration
+- project structure and deployment setup
 
 ---
 
-# ⭐ Project Summary (For Recruiters)
+# ⭐ Project Summary 
 
 AI Money Mentor is a conversational AI-based financial assistant that analyzes user income, expenses, savings, and goals to generate structured budgeting strategies and financial improvement plans using large language model integration.
