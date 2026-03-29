@@ -152,12 +152,14 @@ Planned enhancements include:
 This project was developed during a hackathon by:
 
 **Musunuri V R Gayatri** 
+
 Worked On:
 - AI integration
 - Prompt engineering
 - frontend interaction logic
 
 **Patha Mikhilesh**
+
 Worked On:
 - UI components
 - API integration
