@@ -72,19 +72,21 @@ The assistant generates:
 ---
 
 # 📂 Project Structure
+
+```
 AI-Money-Mentor
 │
 ├── public
 ├── src
-│ ├── components
-│ ├── pages
-│ ├── utils
-│ └── App.js
+│   ├── components
+│   ├── pages
+│   ├── utils
+│   └── App.js
 │
 ├── .env.local
 ├── package.json
 └── README.md
-
+```
 
 ---
 
