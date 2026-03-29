@@ -1,10 +1,10 @@
-📊 AI Money Mentor
+#📊 AI Money Mentor
 
 AI Money Mentor is an intelligent personal finance assistant that helps users manage their income, expenses, savings, and financial goals through an interactive conversational interface. The system analyzes financial inputs and generates structured recommendations such as budgeting strategies, savings plans, expense optimization tips, and beginner-friendly investment guidance.
 
 The goal of this project is to simplify financial decision-making for students, fresh graduates, and early-career professionals using AI-powered insights. 
 
-🚀 Features
+#🚀 Features
 
 ✅ Personalized budget planning
 ✅ Savings strategy recommendations
@@ -14,9 +14,9 @@ The goal of this project is to simplify financial decision-making for students, 
 ✅ Conversational AI interaction
 ✅ Structured financial improvement plans 
 
-🧠 How It Works
+#🧠 How It Works
 
-1️⃣ User enters financial details such as:
+##1️⃣ User enters financial details such as:
 
 income
 expenses
@@ -25,9 +25,9 @@ debt
 financial goals
 risk tolerance
 
-2️⃣ The AI model analyzes the financial condition
+##2️⃣ The AI model analyzes the financial condition
 
-3️⃣ The system generates:
+#3️⃣ The system generates:
 
 budget allocation suggestions
 savings improvement strategies
@@ -35,25 +35,25 @@ expense reduction tips
 safe investment guidance
 short-term financial action plans 
 
-🏗️ Tech Stack
+#🏗️ Tech Stack
 
-Frontend:
+##Frontend:
 
 React.js
 JavaScript
 HTML5
 CSS3
 
-Backend / AI Layer:
+##Backend / AI Layer:
 
 Node.js
 Gemini API (LLM integration)
 
-Configuration:
+##Configuration:
 
 Environment variables (.env.local) 
 
-📂 Project Structure 
+#📂 Project Structure 
 
 AI-Money-Mentor
 │
@@ -68,22 +68,22 @@ AI-Money-Mentor
 ├── package.json
 └── README.md 
 
-⚙️ Installation Guide
-Step 1: Clone the repository
+#⚙️ Installation Guide
+##Step 1: Clone the repository
 git clone https://github.com/your-username/ai-money-mentor.git
-Step 2: Navigate to project directory
+##Step 2: Navigate to project directory
 cd ai-money-mentor
-Step 3: Install dependencies
+##Step 3: Install dependencies
 npm install 
-Step 4: Configure environment variables
+##Step 4: Configure environment variables
 Create a file named: .env.local
 Add your API key: GEMINI_API_KEY=your_api_key_here 
-Step 5: Run the development server
+##Step 5: Run the development server
 npm run dev
 App runs at:
 http://localhost:3000 
 
-🎯 Use Cases
+#🎯 Use Cases
 
 This project helps users:
 
@@ -93,11 +93,11 @@ build emergency savings
 prepare for short-term purchases
 understand safe investment basics 
 
-🔐 Security Note
+#🔐 Security Note
 
 API keys are stored securely using environment variables and are not exposed in client-side code. 
 
-📈 Future Improvements
+#📈 Future Improvements
 
 Planned enhancements include:
 
@@ -107,6 +107,6 @@ authentication system
 savings goal tracker
 deployment to cloud platform 
 
-⭐ Project Summary 
+#⭐ Project Summary 
 
 AI Money Mentor is a conversational AI financial assistant that analyzes user income, expenses, savings, and goals to generate structured budgeting strategies and financial improvement plans using large language model integration.
